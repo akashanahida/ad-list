@@ -7,5 +7,5 @@
 [Link](https://raw.githubusercontent.com/akashanahida/ad-list/main/rules/dns.txt)  
 ---
 **DNS规则统计**
-规则总数: 386372  
-最后更新: 2026-09-06 07:42:28
+规则总数: 386425  
+最后更新: 2026-09-06 12:03:50
