@@ -1,0 +1,34 @@
+#!-白名单-!#
+
+#! 淘宝/阿里 风控验证 Start !#
+#无痕验证(滑块)服务本体 anti-AD#1073(闲鱼开屏误判摇一摇,实为无痕验证)
+mum.alibabachengdun.com
+mum.alibabachengdun.net
+acs-mum.alibabachengdun.com
+#淘宝千牛商家无法登录 AdRules#151
+acs.m.taobao.com
+#设备ID(UTDID)生成 菜鸟裹裹地址簿无法打开 anti-AD#906
+audid-api.taobao.com
+audid-api-sg.taobao.com
+#ACookie(阿里安全Cookie)
+acookie.taobao.com
+acookie.alibaba.com
+#! 淘宝/阿里 风控验证 End !#
+
+#! 京东 风控验证 Start !#
+#验证码(AdRules官方allowlist已收录同款,与#18同属京东误杀系列)
+gia.jd.com
+#京东企业采购/风控采集 anti-AD#849 anti-AD#124
+mercury.jd.com
+#! 京东 风控验证 End !#
+
+#! 电商 功能性误杀 Start !#
+#京东主API
+mapi.m.jd.com
+#京东推送长连接
+hermes.jd.com
+#图片CDN AdRules#18(img14.360buyimg误杀商品图) AdRules#247(秋风规则同源误杀)
+img2.360buyimg.com
+#淘宝详情页
+detail.taobao.com
+#! 电商 功能性误杀 End !#
